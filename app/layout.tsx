@@ -30,7 +30,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        <footer className="absolute bottom-9 left-[35%] row-start-3 flex gap-6 flex-wrap items-center justify-center">
+        <footer className="absolute bottom-9 left-[37%] row-start-3 flex gap-6 flex-wrap items-center justify-center">
           <Link
             className="flex items-center gap-2 hover:underline hover:underline-offset-4"
             href="/"
